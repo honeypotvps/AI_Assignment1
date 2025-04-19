@@ -1,0 +1,158 @@
+2025-04-17 19:33:24,624 - INFO - Backed up original config to /opt/cowrie/cowrie.cfg.backup.1744918404
+2025-04-17 19:33:24,624 - INFO - Switched to low interaction profile
+2025-04-17 19:33:24,624 - INFO - Sent SIGHUP to Cowrie process (PID: 2381)
+2025-04-17 19:33:24,625 - INFO - Cowrie configuration reloaded
+2025-04-17 19:33:29,692 - INFO - Switched to medium interaction profile
+2025-04-17 19:33:29,693 - ERROR - Failed to send SIGHUP: [Errno 3] No such process
+2025-04-17 19:33:29,693 - WARNING - Failed to reload, attempting restart
+2025-04-17 19:33:29,693 - INFO - Stopping Cowrie...
+2025-04-17 19:33:31,708 - INFO - Starting Cowrie...
+2025-04-17 19:33:31,723 - ERROR - Failed to restart Cowrie: Command '['/opt/cowrie/bin/cowrie', 'start']' returned non-zero exit status 127.
+2025-04-17 19:33:31,723 - ERROR - Failed to apply new configuration
+2025-04-17 19:33:36,821 - INFO - Switched to high interaction profile
+2025-04-17 19:33:36,821 - ERROR - Cowrie PID not found
+2025-04-17 19:33:36,821 - WARNING - Failed to reload, attempting restart
+2025-04-17 19:33:36,821 - INFO - Stopping Cowrie...
+2025-04-17 19:33:38,833 - INFO - Starting Cowrie...
+2025-04-17 19:33:38,846 - ERROR - Failed to restart Cowrie: Command '['/opt/cowrie/bin/cowrie', 'start']' returned non-zero exit status 127.
+2025-04-17 19:33:38,846 - ERROR - Failed to apply new configuration
+2025-04-17 19:44:15,162 - INFO - Switched to low interaction profile
+2025-04-17 19:44:15,162 - ERROR - Cowrie PID not found
+2025-04-17 19:44:15,162 - WARNING - Failed to reload, attempting restart
+2025-04-17 19:44:15,162 - INFO - Stopping Cowrie...
+2025-04-17 19:44:17,172 - INFO - Starting Cowrie...
+2025-04-17 19:44:17,593 - INFO - Cowrie restarted successfully
+2025-04-17 19:44:17,593 - INFO - Cowrie restarted with new configuration
+2025-04-17 19:44:22,666 - INFO - Switched to medium interaction profile
+2025-04-17 19:44:22,666 - ERROR - Cowrie PID not found
+2025-04-17 19:44:22,667 - WARNING - Failed to reload, attempting restart
+2025-04-17 19:44:22,667 - INFO - Stopping Cowrie...
+2025-04-17 19:44:24,677 - INFO - Starting Cowrie...
+2025-04-17 19:44:25,056 - INFO - Cowrie restarted successfully
+2025-04-17 19:44:25,056 - INFO - Cowrie restarted with new configuration
+2025-04-17 19:44:30,119 - INFO - Switched to high interaction profile
+2025-04-17 19:44:30,120 - ERROR - Cowrie PID not found
+2025-04-17 19:44:30,120 - WARNING - Failed to reload, attempting restart
+2025-04-17 19:44:30,120 - INFO - Stopping Cowrie...
+2025-04-17 19:44:32,130 - INFO - Starting Cowrie...
+2025-04-17 19:44:32,499 - INFO - Cowrie restarted successfully
+2025-04-17 19:44:32,499 - INFO - Cowrie restarted with new configuration
+2025-04-17 19:45:46,543 - INFO - Switched to low interaction profile
+2025-04-17 19:45:46,543 - ERROR - Cowrie PID not found
+2025-04-17 19:45:46,543 - WARNING - Failed to reload, attempting restart
+2025-04-17 19:45:46,543 - INFO - Stopping Cowrie...
+2025-04-17 19:45:48,553 - INFO - Starting Cowrie...
+2025-04-17 19:45:48,925 - INFO - Cowrie restarted successfully
+2025-04-17 19:45:48,925 - INFO - Cowrie restarted with new configuration
+2025-04-17 19:45:53,991 - INFO - Switched to medium interaction profile
+2025-04-17 19:45:53,992 - ERROR - Cowrie PID not found
+2025-04-17 19:45:53,992 - WARNING - Failed to reload, attempting restart
+2025-04-17 19:45:53,992 - INFO - Stopping Cowrie...
+2025-04-17 19:45:56,002 - INFO - Starting Cowrie...
+2025-04-17 19:45:56,349 - INFO - Cowrie restarted successfully
+2025-04-17 19:45:56,349 - INFO - Cowrie restarted with new configuration
+2025-04-17 19:46:01,417 - INFO - Switched to high interaction profile
+2025-04-17 19:46:01,417 - ERROR - Cowrie PID not found
+2025-04-17 19:46:01,417 - WARNING - Failed to reload, attempting restart
+2025-04-17 19:46:01,417 - INFO - Stopping Cowrie...
+2025-04-17 19:46:03,427 - INFO - Starting Cowrie...
+2025-04-17 19:46:03,780 - INFO - Cowrie restarted successfully
+2025-04-17 19:46:03,780 - INFO - Cowrie restarted with new configuration
+2025-04-17 20:12:54,163 - INFO - Switched to low interaction profile
+2025-04-17 20:12:54,163 - ERROR - Cowrie PID not found
+2025-04-17 20:12:54,163 - WARNING - Failed to reload, attempting restart
+2025-04-17 20:12:54,163 - INFO - Stopping Cowrie...
+2025-04-17 20:12:56,178 - INFO - Starting Cowrie...
+2025-04-17 20:12:56,567 - INFO - Cowrie restarted successfully
+2025-04-17 20:12:56,567 - INFO - Cowrie restarted with new configuration
+2025-04-17 20:13:01,630 - INFO - Switched to medium interaction profile
+2025-04-17 20:13:01,630 - ERROR - Cowrie PID not found
+2025-04-17 20:13:01,630 - WARNING - Failed to reload, attempting restart
+2025-04-17 20:13:01,630 - INFO - Stopping Cowrie...
+2025-04-17 20:13:03,640 - INFO - Starting Cowrie...
+2025-04-17 20:13:04,002 - INFO - Cowrie restarted successfully
+2025-04-17 20:13:04,002 - INFO - Cowrie restarted with new configuration
+2025-04-17 20:13:09,066 - INFO - Switched to high interaction profile
+2025-04-17 20:13:09,066 - ERROR - Cowrie PID not found
+2025-04-17 20:13:09,066 - WARNING - Failed to reload, attempting restart
+2025-04-17 20:13:09,066 - INFO - Stopping Cowrie...
+2025-04-17 20:13:11,077 - INFO - Starting Cowrie...
+2025-04-17 20:13:11,443 - INFO - Cowrie restarted successfully
+2025-04-17 20:13:11,443 - INFO - Cowrie restarted with new configuration
+2025-04-18 12:02:40,408 - INFO - Switched to low interaction profile
+2025-04-18 12:02:40,409 - ERROR - Cowrie PID not found
+2025-04-18 12:02:40,409 - WARNING - Failed to reload, attempting restart
+2025-04-18 12:02:40,409 - INFO - Stopping Cowrie...
+2025-04-18 12:02:42,420 - INFO - Starting Cowrie...
+2025-04-18 12:02:42,793 - INFO - Cowrie restarted successfully
+2025-04-18 12:02:42,793 - INFO - Cowrie restarted with new configuration
+2025-04-18 12:02:47,867 - INFO - Switched to medium interaction profile
+2025-04-18 12:02:47,867 - ERROR - Cowrie PID not found
+2025-04-18 12:02:47,867 - WARNING - Failed to reload, attempting restart
+2025-04-18 12:02:47,867 - INFO - Stopping Cowrie...
+2025-04-18 12:02:49,883 - INFO - Starting Cowrie...
+2025-04-18 12:02:50,221 - INFO - Cowrie restarted successfully
+2025-04-18 12:02:50,221 - INFO - Cowrie restarted with new configuration
+2025-04-18 12:02:55,286 - INFO - Switched to high interaction profile
+2025-04-18 12:02:55,286 - ERROR - Cowrie PID not found
+2025-04-18 12:02:55,286 - WARNING - Failed to reload, attempting restart
+2025-04-18 12:02:55,286 - INFO - Stopping Cowrie...
+2025-04-18 12:02:57,297 - INFO - Starting Cowrie...
+2025-04-18 12:02:57,643 - INFO - Cowrie restarted successfully
+2025-04-18 12:02:57,643 - INFO - Cowrie restarted with new configuration
+2025-04-18 12:24:51,153 - INFO - Switched to low interaction profile
+2025-04-18 12:24:51,153 - ERROR - Cowrie PID not found
+2025-04-18 12:24:51,153 - WARNING - Failed to reload, attempting restart
+2025-04-18 12:24:51,153 - INFO - Stopping Cowrie...
+2025-04-18 12:24:53,166 - INFO - Starting Cowrie...
+2025-04-18 12:24:53,549 - INFO - Cowrie restarted successfully
+2025-04-18 12:24:53,549 - INFO - Cowrie restarted with new configuration
+2025-04-18 12:25:54,830 - INFO - Switched to high interaction profile
+2025-04-18 12:25:54,830 - ERROR - Cowrie PID not found
+2025-04-18 12:25:54,830 - WARNING - Failed to reload, attempting restart
+2025-04-18 12:25:54,830 - INFO - Stopping Cowrie...
+2025-04-18 12:25:56,841 - INFO - Starting Cowrie...
+2025-04-18 12:25:57,166 - INFO - Cowrie restarted successfully
+2025-04-18 12:25:57,166 - INFO - Cowrie restarted with new configuration
+2025-04-18 12:26:23,917 - INFO - Switched to medium interaction profile
+2025-04-18 12:26:23,917 - ERROR - Cowrie PID not found
+2025-04-18 12:26:23,917 - WARNING - Failed to reload, attempting restart
+2025-04-18 12:26:23,917 - INFO - Stopping Cowrie...
+2025-04-18 12:26:25,928 - INFO - Starting Cowrie...
+2025-04-18 12:26:26,261 - INFO - Cowrie restarted successfully
+2025-04-18 12:26:26,261 - INFO - Cowrie restarted with new configuration
+2025-04-18 13:08:11,813 - INFO - Switched to medium interaction profile
+2025-04-18 13:08:11,813 - ERROR - Cowrie PID not found
+2025-04-18 13:08:11,813 - WARNING - Failed to reload, attempting restart
+2025-04-18 13:08:11,813 - INFO - Stopping Cowrie...
+2025-04-18 13:08:13,826 - INFO - Starting Cowrie...
+2025-04-18 13:08:14,217 - INFO - Cowrie restarted successfully
+2025-04-18 13:08:14,218 - INFO - Cowrie restarted with new configuration
+2025-04-18 13:12:20,713 - INFO - Switched to low interaction profile
+2025-04-18 13:12:20,713 - ERROR - Cowrie PID not found
+2025-04-18 13:12:20,713 - WARNING - Failed to reload, attempting restart
+2025-04-18 13:12:20,713 - INFO - Stopping Cowrie...
+2025-04-18 13:12:22,724 - INFO - Starting Cowrie...
+2025-04-18 13:12:23,075 - INFO - Cowrie restarted successfully
+2025-04-18 13:12:23,075 - INFO - Cowrie restarted with new configuration
+2025-04-18 13:20:50,153 - INFO - Switched to low interaction profile
+2025-04-18 13:20:50,153 - ERROR - Cowrie PID not found
+2025-04-18 13:20:50,153 - WARNING - Failed to reload, attempting restart
+2025-04-18 13:20:50,153 - INFO - Stopping Cowrie...
+2025-04-18 13:20:52,164 - INFO - Starting Cowrie...
+2025-04-18 13:20:52,524 - INFO - Cowrie restarted successfully
+2025-04-18 13:20:52,524 - INFO - Cowrie restarted with new configuration
+2025-04-18 13:20:57,589 - INFO - Switched to medium interaction profile
+2025-04-18 13:20:57,589 - ERROR - Cowrie PID not found
+2025-04-18 13:20:57,589 - WARNING - Failed to reload, attempting restart
+2025-04-18 13:20:57,589 - INFO - Stopping Cowrie...
+2025-04-18 13:20:59,600 - INFO - Starting Cowrie...
+2025-04-18 13:20:59,949 - INFO - Cowrie restarted successfully
+2025-04-18 13:20:59,949 - INFO - Cowrie restarted with new configuration
+2025-04-18 13:21:05,020 - INFO - Switched to high interaction profile
+2025-04-18 13:21:05,021 - ERROR - Cowrie PID not found
+2025-04-18 13:21:05,021 - WARNING - Failed to reload, attempting restart
+2025-04-18 13:21:05,021 - INFO - Stopping Cowrie...
+2025-04-18 13:21:07,033 - INFO - Starting Cowrie...
+2025-04-18 13:21:07,400 - INFO - Cowrie restarted successfully
+2025-04-18 13:21:07,400 - INFO - Cowrie restarted with new configuration
